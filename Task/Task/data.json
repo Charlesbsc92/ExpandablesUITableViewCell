@@ -1,0 +1,249 @@
+{
+  "status": "success",
+  "result": {
+    "ongoing": [
+      {
+        "id": "56",
+        "user_id": "651",
+        "wish_title": "Test Wish",
+        "wish_period": "20",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-26 06:43:14",
+        "updated_on": "2019-02-26 06:43:14",
+        "is_deleted": "0",
+        "wish_amount": "150.00",
+        "wish_status": "1",
+        "wish_percentage": "26.67",
+        "daysflag": "20 Days",
+        "transactions": [
+          {
+            "date": "2019-03-07",
+            "description": "I put in $15.00 for this wish",
+            "amount": "15.00"
+          },
+          {
+            "date": "2019-02-26",
+            "description": "I put in 25.00 for this wish",
+            "amount": "25.00"
+          },
+          {
+            "date": "2019-02-26",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 40
+      },
+      {
+        "id": "58",
+        "user_id": "651",
+        "wish_title": "Testing dollars",
+        "wish_period": "3",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-27 16:57:06",
+        "updated_on": "2019-02-27 16:57:23",
+        "is_deleted": "0",
+        "wish_amount": "150.00",
+        "wish_status": "1",
+        "wish_percentage": "0.00",
+        "daysflag": "3 Days",
+        "transactions": [
+          {
+            "date": "2019-02-27",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 0
+      },
+      {
+        "id": "55",
+        "user_id": "651",
+        "wish_title": "Test Wish",
+        "wish_period": "20",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-26 06:41:20",
+        "updated_on": "2019-02-26 06:41:20",
+        "is_deleted": "0",
+        "wish_amount": "150.00",
+        "wish_status": "1",
+        "wish_percentage": "0.00",
+        "daysflag": "20 Days",
+        "transactions": [
+          {
+            "date": "2019-02-26",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 0
+      },
+      {
+        "id": "47",
+        "user_id": "651",
+        "wish_title": "Test",
+        "wish_period": "25",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-22 15:07:08",
+        "updated_on": "2019-02-22 15:07:08",
+        "is_deleted": "0",
+        "wish_amount": "150.00",
+        "wish_status": "1",
+        "wish_percentage": "26.67",
+        "daysflag": "25 Days",
+        "transactions": [
+          {
+            "date": "2019-02-25",
+            "description": "I put in 25.00 for this wish",
+            "amount": "25.00"
+          },
+          {
+            "date": "2019-02-22",
+            "description": "I put in 15.00 for this wish",
+            "amount": "15.00"
+          },
+          {
+            "date": "2019-02-22",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 40
+      },
+      {
+        "id": "57",
+        "user_id": "651",
+        "wish_title": "Test",
+        "wish_period": "2",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-26 06:48:59",
+        "updated_on": "2019-02-26 06:48:59",
+        "is_deleted": "0",
+        "wish_amount": "120.00",
+        "wish_status": "1",
+        "wish_percentage": "0.00",
+        "daysflag": "2 Days",
+        "transactions": [
+          {
+            "date": "2019-02-26",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 0
+      },
+      {
+        "id": "53",
+        "user_id": "651",
+        "wish_title": "Test",
+        "wish_period": "6",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-26 06:38:13",
+        "updated_on": "2019-02-26 06:38:13",
+        "is_deleted": "0",
+        "wish_amount": "120.00",
+        "wish_status": "1",
+        "wish_percentage": "83.33",
+        "daysflag": "6 Days",
+        "transactions": [
+          {
+            "date": "2019-03-01",
+            "description": "I put in $100.00 for this wish",
+            "amount": "100.00"
+          },
+          {
+            "date": "2019-02-26",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 100
+      },
+      {
+        "id": "54",
+        "user_id": "651",
+        "wish_title": "Test",
+        "wish_period": "2",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-26 06:41:01",
+        "updated_on": "2019-02-26 06:41:01",
+        "is_deleted": "0",
+        "wish_amount": "120.00",
+        "wish_status": "1",
+        "wish_percentage": "0.00",
+        "daysflag": "2 Days",
+        "transactions": [
+          {
+            "date": "2019-02-26",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 0
+      },
+      {
+        "id": "52",
+        "user_id": "651",
+        "wish_title": "Test",
+        "wish_period": "10",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-26 06:35:09",
+        "updated_on": "2019-02-26 06:35:09",
+        "is_deleted": "0",
+        "wish_amount": "100.00",
+        "wish_status": "1",
+        "wish_percentage": "0.00",
+        "daysflag": "10 Days",
+        "transactions": [
+          {
+            "date": "2019-02-26",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 0
+      },
+      {
+        "id": "61",
+        "user_id": "651",
+        "wish_title": "Flower",
+        "wish_period": "12",
+        "wish_period_flag": "1",
+        "status": "1",
+        "created_on": "2019-02-28 05:13:41",
+        "updated_on": "2019-03-14 11:01:09",
+        "is_deleted": "0",
+        "wish_amount": "100.00",
+        "wish_status": "1",
+        "wish_percentage": "20.00",
+        "daysflag": "12 Days",
+        "transactions": [
+          {
+            "date": "2019-03-14",
+            "description": "I put in $18.00 for this wish",
+            "amount": "18.00"
+          },
+          {
+            "date": "2019-03-05",
+            "description": "I put in $2.00 for this wish",
+            "amount": "2.00"
+          },
+          {
+            "date": "2019-02-28",
+            "description": "This wish is created.",
+            "amount": ""
+          }
+        ],
+        "total_amount": 20
+      }
+    ]
+  }
+}
